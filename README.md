@@ -16,3 +16,8 @@ pip install -r requirements.txt
 
 2. Train and predict:
 python main.py
+
+## Dataset Note
+
+The dataset used for training contains approximately 20,000 housing records.
+Due to file size limitations, the dataset is not included in this repository.
